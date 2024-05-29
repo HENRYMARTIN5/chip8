@@ -1,0 +1,7 @@
+{
+    "shift_mode": "schip",
+    "jmp_offset_mode": "schip",
+    "add_index_mode": "schip",
+    "store_load_mode": "schip",
+    "allow_unknown": false
+}
